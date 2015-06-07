@@ -1,3 +1,7 @@
 ﻿ASP一覧
+<<<<<<< HEAD
 test
 branchtest
+=======
+test6/7
+>>>>>>> master
