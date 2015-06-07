@@ -1,5 +1,2 @@
 ﻿ASP一覧
 test6/7
-test
-test
-test
